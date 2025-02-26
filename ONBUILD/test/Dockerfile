@@ -1,1 +1,1 @@
-FROM dkrngnix:v1
+FROM onbuild:v1
